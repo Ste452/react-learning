@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function  argumentosNoArrowFunction() {
+function ContadorClick() {
     // eslint-disable-next-line react-hooks/rules-of-hooks
     const [contador, setContador] = useState(0);
 
@@ -13,4 +13,4 @@ function  argumentosNoArrowFunction() {
     );
 }
 
-export default argumentosNoArrowFunction
+export default ContadorClick
