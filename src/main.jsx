@@ -1,11 +1,11 @@
-import './index.css'
-import PlacarDoJogo from './aula2/PlacarDoJogo';
+import RelogioDigital from './aula2/exercicioRelogioDigital';
+import './App.css';
 
 function main() {
   return (
-    <div>
-      <PlacarDoJogo/>
-    </div>
+    <>
+      <RelogioDigital/>
+    </>
   );
 }
 
