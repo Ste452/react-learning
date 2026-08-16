@@ -1,12 +1,13 @@
-import RelogioDigital from './aula2/exercicioRelogioDigital';
+
+import Pai from './aula3/Pai';
 import './App.css';
 
 function main() {
   return (
-    <>
-      <RelogioDigital/>
-    </>
+    <div>
+      <Pai />
+    </div>
   );
 }
 
-export default main
+export default main;
