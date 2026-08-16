@@ -1,5 +1,5 @@
 
-import Quadrado from './Quadrado'
+import Quadrado from './components/Quadrado'
 
 function App() {
 
