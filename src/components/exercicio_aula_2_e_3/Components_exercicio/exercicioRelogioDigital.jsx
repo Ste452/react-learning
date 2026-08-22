@@ -15,6 +15,6 @@ const RelogioDigital = () => {
             {horario.toLocaleDateString()}
         </div>
     );
-}
+};
 
-export default RelogioDigital
+export default RelogioDigital;
